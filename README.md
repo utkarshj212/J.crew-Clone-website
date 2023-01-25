@@ -4,17 +4,17 @@ J.Crew is an E-Commerce Website offering an assortment of Women's , Men's and Ki
 
 Tech Stack Used : -
 
-Languages
-HTML
-CSS
-JavaScript ES6
-React
-Redux
-localStorage
-Chakra-UI
-CSS frameworks
-BootStrap
-Material-UI
+1. Languages
+2. HTML
+3. CSS
+4. JavaScript ES6
+5. React
+6. Redux
+7. localStorage
+8. Chakra-UI
+9. CSS frameworks
+10. BootStrap
+11. Material-UI
 
 Snapshot :-
 
@@ -24,5 +24,5 @@ Snapshot :-
 ![4](https://user-images.githubusercontent.com/110095394/214500620-f60ceac9-8e05-4cc0-99dc-2d2cc7860e11.png)
 ![5](https://user-images.githubusercontent.com/110095394/214500710-67ed7234-effd-4f75-96a2-fe7eabea10b5.png)
 
-Netlify Link
+Netlify Link :-
 https://jcrew12.netlify.app/
